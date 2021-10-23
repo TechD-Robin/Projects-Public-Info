@@ -1,11 +1,11 @@
 {
-    "ios-current-version" : "1.0.1",
+    "ios-current-version" : "1.1.0",
     "language-codes" : ["zh", "ja", "en"],
     "force-update" : 0,
     "descriptions" : {
-       "description-JPja" : "最初のリリース",
-       "description-TWzh" : "初版",
-       "description-USen" : "first release"
+       "description-JPja" : "スポットライトひひろをサポート。\nサンリオの村人のための更新された資料。\nいくつかのバグを修正。",
+       "description-TWzh" : "支援 Spotlight 搜尋\n更新三麗鷗的村民資料\n修正一些問題",
+       "description-USen" : "Support Spotlight search.\nUpdate Sanrio's villager information.\nFix some bug."
     }
 
 }

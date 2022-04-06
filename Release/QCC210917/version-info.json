@@ -1,11 +1,11 @@
 {
-    "ios-current-version" : "1.0.1",
-    "language-codes" : ["zh"],
+    "ios-current-version" : "1.0.2",
+    "language-codes" : ["zh","ja"],
     "force-update" : 0,
     "descriptions" : {
-       "description-JPja" : "最初のリリース",
-       "description-TWzh" : "初版",
-       "description-USen" : "first release"
+       "description-JPja" : "いくつかのバグを修正",
+       "description-TWzh" : "修復了一些錯誤",
+       "description-USen" : "Fixed some bugs"
     }
 
 }

@@ -1,11 +1,11 @@
 {
-    "ios-current-version" : "1.0.2",
+    "ios-current-version" : "1.1.0",
     "language-codes" : ["zh","ja"],
     "force-update" : 0,
     "descriptions" : {
-       "description-JPja" : "いくつかのバグを修正",
-       "description-TWzh" : "修復了一些錯誤",
-       "description-USen" : "Fixed some bugs"
+       "description-JPja" : "クイックアクションアイテムを追加しました：\nバーコードをスキャンする\nQRコードをスキャンする",
+       "description-TWzh" : "新增 Quick Actions 項目 : \n掃描一般條碼\n掃描二維條碼",
+       "description-USen" : "Add Quick Actions items."
     }
 
 }

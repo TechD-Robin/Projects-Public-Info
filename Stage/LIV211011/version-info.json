@@ -1,11 +1,11 @@
 {
-    "ios-current-version" : "1.0.1",
+    "ios-current-version" : "1.2.0",
     "language-codes" : ["zh", "ja", "en"],
     "force-update" : 0,
     "descriptions" : {
-       "description-JPja" : "最初のリリース",
-       "description-TWzh" : "初版",
-       "description-USen" : "first release"
+       "description-JPja" : "バージョン2.0の村人プロファイルを追加。\n音楽のバックグラウンド再生を設定できます。\nいくつかのバグを修正。",
+       "description-TWzh" : "新增版本 2.0 的村民資料\n可以設定音樂背景播放\n修正一些問題",
+       "description-USen" : "Added villager profiles for version 2.0.\nCan set play music in background.\nFix some bug"
     }
 
 }

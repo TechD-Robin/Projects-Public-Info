@@ -1,0 +1,11 @@
+{
+    "ios-current-version" : "1.0.0",
+    "language-codes" : ["zh","ja","en"],
+    "force-update" : 0,
+    "descriptions" : {
+        "JPja" : "新発売",
+        "TWzh" : "新發布",
+        "USen" : "New Release"
+    }
+}
+

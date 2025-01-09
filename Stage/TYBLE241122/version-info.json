@@ -2,11 +2,12 @@
     "ios-current-version" : "1.0.0",
     "language-codes" : ["zh","ja","en"],
     "force-update" : 0,
-    "initial-review-completed" : 0,
+    "initial-review-completed" : 1,  
     "descriptions" : {
         "JPja" : "新発売",
         "TWzh" : "新發布",
         "USen" : "New Release"
     }
+    
 }
 

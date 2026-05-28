@@ -1,0 +1,14 @@
+{
+    "ios-current-version": "2.0.1",
+    "language-codes": [
+        "zh",
+        "ja",
+        "en"
+    ],
+    "force-update": 0,
+    "descriptions": {
+        "JPja": "いくつかのバグを修正しました。\nインターフェースの表示に関するいくつかの問題を修正しました。",
+        "TWzh": "修正一些異常\n調整一些介面顯示問題",
+        "USen": "Fixed some bugs\nAdjusted some UI display issues"
+    }
+}

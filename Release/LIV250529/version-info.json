@@ -1,0 +1,11 @@
+{
+    "ios-current-version" : "1.2.1",
+    "language-codes" : ["zh","ja","en"],
+    "force-update" : 0,
+    "descriptions" : {
+       "description-JPja" : "音楽再生の問題を修正しました。\n編集画面の表示不具合を修正。",
+       "description-TWzh" : "修正音樂播放問題.\n修正編輯畫面顯示問題.",
+       "description-USen" : "Fixed music playback issue.\nFixed editing layout issue."
+    }
+
+}

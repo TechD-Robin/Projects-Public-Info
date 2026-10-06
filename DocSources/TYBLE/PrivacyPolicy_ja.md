@@ -76,5 +76,5 @@ Bluetoothを無効にすると、BLE接続が必要な機能は使用できな�
 
 本プライバシーポリシーに関するご質問や懸念がある場合は、以下の方法でご連絡ください：
 
-電子メール：robinhsu599+dev@gmail.com
+**電子メール：**[robinhsu599+dev@gmail.com](mailto:robinhsu599+dev@gmail.com?subject=%5BBLE%E3%82%92%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B9%E3%81%99%E3%82%8B%5D)
 

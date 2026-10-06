@@ -7,4 +7,4 @@ Since the App Store does not support sponsorship payment models, I chose to impl
 
 In any case, I hope this app will help in your BLE development process. If you have any questions, please feel free to contact me.
 
-Developer: Robin Hsu
+**Developer:** Robin Hsu

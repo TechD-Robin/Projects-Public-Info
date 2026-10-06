@@ -25,3 +25,8 @@ The developer might not maintain this application continually for personal reaso
 * For compliance with national laws and regulations changes, the developer has the right to change the term of use and the privacy policy of this application.
 
 * When you are using this application, it means you have read, agreed and accepted the term of use and the privacy policy of this application.
+
+#### Contact me
+
+Robin Hsu
+E-Mail: robinhsu599+dev@gmail.com

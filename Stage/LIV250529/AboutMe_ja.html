@@ -1,23 +1,64 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            background-color: black;
-            color: white;
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light dark">
+  <meta name="updated" content="2025-05-29">
+  <title>私について</title>
+  <style>
+:root {
+  color-scheme: light dark;
+  --bg: #ffffff;
+  --fg: #1d1d1f;
+  --muted: #6e6e73;
+  --rule: #d2d2d7;
+  --link: #0066cc;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #000000;
+    --fg: #f1f1f1;
+    --muted: #a1a1a6;
+    --rule: #3a3a3c;
+    --link: #80cbc4;
+  }
+}
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  padding: 1.25rem 1.25rem 2.5rem;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI",
+               "PingFang TC", "Hiragino Sans", "Noto Sans TC", "Noto Sans JP", sans-serif;
+  font-size: 1rem;
+  line-height: 1.7;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+main { max-width: 800px; margin: 0 auto; }
+h1, h2, h3, h4, h5, h6 { color: var(--fg); line-height: 1.35; margin: 1.6em 0 0.6em; }
+h1 { font-size: 1.6rem; }
+h2 { font-size: 1.4rem; }
+h3 { font-size: 1.25rem; }
+h4, h5, h6 { font-size: 1.15rem; }
+main > :first-child { margin-top: 0; }
+p { margin: 0.75em 0; }
+ul, ol { padding-left: 1.5rem; margin: 0.75em 0; }
+li { margin: 0.4em 0; }
+hr { border: 0; border-top: 1px solid var(--rule); margin: 1.5rem 0; }
+a { color: var(--link); text-decoration: underline; text-underline-offset: 0.15em; }
+strong { font-weight: 600; }
+  </style>
 </head>
 <body>
-    <p>最近ちょっと「あつまれ どうぶつの森」にハマりすぎていて、iOS 開発者として「島での住民とのやり取りを記録できるアプリがあったら便利かも」と思い、このシンプルなアプリを作ってみました。</p>
-    <p>時々細かい調整を加えていて、最近は新しいデータ機能も追加しました。基本的には自分用ですが、他のプレイヤーの役に立てれば嬉しいです。</p>
-    <p>App Store では純粋な支援（ドネーション）モデルがサポートされていないため、特定のデータ表示に制限を設け、広告視聴または課金によって制限を解除する形で開発を支援していただけるようにしています。</p>
-    <p>いずれにせよ、このアプリが少しでもお役に立てば幸いです。ご不明な点がありましたら、いつでもお気軽にご連絡ください。</p>
-    <p><strong>開発者：</strong>Robin Hsu</p>
+<main>
+<p>最近ちょっと「あつまれ どうぶつの森」にハマりすぎていて、iOS 開発者として「島での住民とのやり取りを記録できるアプリがあったら便利かも」と思い、このシンプルなアプリを作ってみました。</p>
+<p>時々細かい調整を加えていて、最近は新しいデータ機能も追加しました。基本的には自分用ですが、他のプレイヤーの役に立てれば嬉しいです。</p>
+<p>App Store では純粋な支援（ドネーション）モデルがサポートされていないため、特定のデータ表示に制限を設け、広告視聴または課金によって制限を解除する形で開発を支援していただけるようにしています。</p>
+<p>いずれにせよ、このアプリが少しでもお役に立てば幸いです。ご不明な点がありましたら、いつでもお気軽にご連絡ください。</p>
+<p><strong>開発者：</strong>Robin Hsu</p>
+</main>
 </body>
 </html>

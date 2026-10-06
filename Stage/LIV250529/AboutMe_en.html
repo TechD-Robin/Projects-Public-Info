@@ -1,23 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            background-color: black;
-            color: white;
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light dark">
+  <meta name="updated" content="2025-05-29">
+  <title>About Me</title>
+  <style>
+:root {
+  color-scheme: light dark;
+  --bg: #ffffff;
+  --fg: #1d1d1f;
+  --muted: #6e6e73;
+  --rule: #d2d2d7;
+  --link: #0066cc;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #000000;
+    --fg: #f1f1f1;
+    --muted: #a1a1a6;
+    --rule: #3a3a3c;
+    --link: #80cbc4;
+  }
+}
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  padding: 1.25rem 1.25rem 2.5rem;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI",
+               "PingFang TC", "Hiragino Sans", "Noto Sans TC", "Noto Sans JP", sans-serif;
+  font-size: 1rem;
+  line-height: 1.7;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+main { max-width: 800px; margin: 0 auto; }
+h1, h2, h3, h4, h5, h6 { color: var(--fg); line-height: 1.35; margin: 1.6em 0 0.6em; }
+h1 { font-size: 1.6rem; }
+h2 { font-size: 1.4rem; }
+h3 { font-size: 1.25rem; }
+h4, h5, h6 { font-size: 1.15rem; }
+main > :first-child { margin-top: 0; }
+p { margin: 0.75em 0; }
+ul, ol { padding-left: 1.5rem; margin: 0.75em 0; }
+li { margin: 0.4em 0; }
+hr { border: 0; border-top: 1px solid var(--rule); margin: 1.5rem 0; }
+a { color: var(--link); text-decoration: underline; text-underline-offset: 0.15em; }
+strong { font-weight: 600; }
+  </style>
 </head>
 <body>
-    <p>I've been a bit too obsessed with Animal Crossing lately, and as an iOS developer, I thought it might be nice to have an app to record interactions with the villagers on my island—so I built this simple little app.</p>
-    <p>I occasionally return to tweak a few details, and recently added a new data feature. It's mainly something I use myself, but if it helps other players too, that would be great.</p>
-    <p>Since the App Store doesn't support direct donation models, I chose to place certain limitations on data visibility. Users can choose to watch ads or pay to unlock these limitations as a way to support development.</p>
-    <p>In any case, I hope this app can be helpful in your experience. If you have any questions, feel free to reach out to me.</p>
-    <p><strong>Developer:</strong> Robin Hsu</p>
+<main>
+<p>I've been a bit too obsessed with Animal Crossing lately, and as an iOS developer, I thought it might be nice to have an app to record interactions with the villagers on my island—so I built this simple little app.</p>
+<p>I occasionally return to tweak a few details, and recently added a new data feature. It's mainly something I use myself, but if it helps other players too, that would be great.</p>
+<p>Since the App Store doesn't support direct donation models, I chose to place certain limitations on data visibility. Users can choose to watch ads or pay to unlock these limitations as a way to support development.</p>
+<p>In any case, I hope this app can be helpful in your experience. If you have any questions, feel free to reach out to me.</p>
+<p><strong>Developer:</strong> Robin Hsu</p>
+</main>
 </body>
 </html>

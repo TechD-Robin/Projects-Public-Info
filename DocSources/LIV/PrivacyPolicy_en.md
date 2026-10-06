@@ -47,4 +47,4 @@ This Privacy Policy may be updated from time to time to reflect changes in our p
 
 **Contact Us**  
 If you have any questions or concerns regarding this Privacy Policy, please contact us at:  
-**E-Mail:** [robinhsu599+dev@gmail.com](mailto:robinhsu599+dev@gmail.com?subject=%5BTrace%20Your%20BLE%5D)
+**E-Mail:** [robinhsu599+dev@gmail.com](mailto:robinhsu599+dev@gmail.com?subject=%5BAnimal%20Crossing%20Daily%5D)

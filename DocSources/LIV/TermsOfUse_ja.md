@@ -51,5 +51,5 @@
 #### お問い合わせ
 
 Robin Hsu
-**電子メール：**[robinhsu599+dev@gmail.com](mailto:robinhsu599+dev@gmail.com?subject=%5BBLE%E3%82%92%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B9%E3%81%99%E3%82%8B%5D)
+**電子メール：**[robinhsu599+dev@gmail.com](mailto:robinhsu599+dev@gmail.com?subject=%5B%E3%81%82%E3%81%A4%E6%A3%AE%E3%83%A9%E3%82%A4%E3%83%96%E8%A8%98%E4%BA%8B%5D)
 

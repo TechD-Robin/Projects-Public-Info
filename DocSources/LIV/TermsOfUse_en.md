@@ -50,4 +50,4 @@ By continuing to use this application, you confirm that you have read, understoo
 #### Contact Me
 
 Robin Hsu
-E-Mail: [robinhsu599+dev@gmail.com](mailto:robinhsu599+dev@gmail.com?subject=%5BTrace%20Your%20BLE%5D)
+E-Mail: [robinhsu599+dev@gmail.com](mailto:robinhsu599+dev@gmail.com?subject=%5BAnimal%20Crossing%20Daily%5D)

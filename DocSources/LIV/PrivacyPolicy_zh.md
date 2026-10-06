@@ -78,4 +78,4 @@ iCloud 會根據您的 Apple ID 帳號來儲存和管理您的資料，但我們
 
 如果您對本隱私權政策有任何疑問或擔憂，請隨時聯繫我們：
 
-**電子郵件：** [robinhsu599+dev@gmail.com](mailto:robinhsu599+dev@gmail.com?subject=%5B%E6%89%BE%E6%89%BE%E6%82%A8%E7%9A%84%20BLE%5D)
+**電子郵件：** [robinhsu599+dev@gmail.com](mailto:robinhsu599+dev@gmail.com?subject=%5B%E5%8B%95%E6%A3%AE%E7%94%9F%E6%B4%BB%E8%A8%98%E4%BA%8B%5D)
